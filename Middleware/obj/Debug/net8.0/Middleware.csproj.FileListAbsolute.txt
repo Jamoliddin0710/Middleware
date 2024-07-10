@@ -30,3 +30,4 @@ D:\udemy\Middleware\Middleware\obj\Debug\net8.0\refint\Middleware.dll
 D:\udemy\Middleware\Middleware\obj\Debug\net8.0\Middleware.pdb
 D:\udemy\Middleware\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
 D:\udemy\Middleware\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+D:\udemy\Middleware\Middleware\obj\Debug\net8.0\Middleware.sourcelink.json
